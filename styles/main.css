@@ -1,0 +1,40 @@
+/* styles/main.css */
+
+body {
+	background: rgb(178,255,173);
+	font-family: 'Playfair Display', serif;
+}
+h1 {
+	color: white;
+}
+ol {
+	font-weight: bold;
+}
+li {
+	color: white;
+}
+a{
+	text-decoration: none;
+	color:rgb(25, 26, 25);
+}
+#my_bar{
+	border-style: solid;
+	border-color: white;
+	border-radius: 15px;
+	background: rgb(213, 237, 216)
+}
+#my_name{
+	color: white;
+	text-align: center;
+	text-decoration: underline; 
+
+}
+
+.paragraph{
+	border-style:solid;
+	border-radius: 15px;
+	margin: 20px 25px 30px 30px;
+}
+img {
+	border-style: solid; color: white;
+}
